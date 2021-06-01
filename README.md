@@ -13,7 +13,6 @@
 
   - 📫 How to reach me **sunaranish17@gmail.com**
 
-  - 
 </div>
 
 <br />
