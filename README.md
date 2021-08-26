@@ -1,5 +1,5 @@
 ### Hello Programmers 👋, I'm Anish Sunar
-### Software Engineer from Nepal ![image](https://user-images.githubusercontent.com/42515476/130904842-d12b31c5-4d25-4651-9eb7-ca1e7ad1423b.png)
+### Software Engineer from Nepal 🇳🇵🇳🇵🇳🇵
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunaranish17" alt="sunaranish17" /></a> </p>
